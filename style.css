@@ -492,7 +492,7 @@ button a{
     .intro{
         flex-direction: column;
         text-align: center;
-        padding: 3rem 1rem;
+        padding: 2rem 1rem;
     }
    .navbar .nav-links{
   flex-direction: column;
@@ -505,7 +505,7 @@ button a{
         top: auto;
         width: 180px;
         height: 180px;
-        margin-top: 0.5rem;
+        margin-top: 2rem;
     }
     .skills-section ul{
         /* flex-direction: column; */
